@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ビギナーズRock!!",
+  "base_artist": "桜小路きな子 (CV.鈴原希実)",
+  "createdAt": "2026-02-25T05:20:23.896847Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビギナーズRock!!",
+      "artist": "桜小路きな子(CV.鈴原希実)",
+      "has_synced": true,
+      "path": "select/01_ビギナーズRock!!_桜小路きな子(CV.鈴原希実).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビギナーズRock!!",
+      "artist": "桜小路きな子",
+      "has_synced": true,
+      "path": "select/02_ビギナーズRock!!_桜小路きな子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビギナーズRock!!",
+      "artist": "桜小路きな子 (CV.鈴原希実)",
+      "has_synced": false,
+      "path": "select/pl_01_ビギナーズRock!!_桜小路きな子_(CV.鈴原希実).txt"
+    }
+  ]
+}
